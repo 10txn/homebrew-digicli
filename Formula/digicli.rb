@@ -1,9 +1,9 @@
 class Digicli < Formula
   desc "Minimalistic agentic coding cli "
   homepage "https://github.com/10txn/digicli"
-  url "https://github.com/10txn/digicli/archive/refs/tags/v0.1.1.tar.gz"
+  url "https://github.com/10txn/digicli/archive/refs/tags/v0.1.3.tar.gz"
   # Filled in by `make formula TAG=v0.1.0` once the tag is pushed.
-  sha256 "5bac7c4d8705ea0b97b0f7be6441771cbc59dd6717e787f1a6fee7260d87c482"
+  sha256 "262dd86a8144831299cb3705a06e6481c79e145fbef793ab9962de0591970211"
   license "MIT"
   head "https://github.com/10txn/digicli.git", branch: "main"
 
