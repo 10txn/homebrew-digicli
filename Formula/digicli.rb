@@ -1,5 +1,5 @@
 class Digicli < Formula
-  desc "Local-first agentic coding assistant for the terminal, built on Ollama"
+  desc "Minimalistic agentic coding cli "
   homepage "https://github.com/10txn/digicli"
   url "https://github.com/10txn/digicli/archive/refs/tags/v0.1.1.tar.gz"
   # Filled in by `make formula TAG=v0.1.0` once the tag is pushed.
